@@ -15,10 +15,10 @@ Menu Utama
 ![prev1](.assets/prev1.png)
 
 About
-![about](.assets/ab.png)
+![about](.assets/about.png)
 
 Pilihan Virtex
-![pv](.assets/pilV.png)
+![pv](.assets/pv.png)
 
 ## 97 Virtex
 
