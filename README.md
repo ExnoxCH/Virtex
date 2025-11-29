@@ -1,6 +1,6 @@
 # Virtex-Ganas
 ## Apa itu Virtex?
-Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp seperti `ํ㜻ํ㜻ํ㜻ํ㜻ํ㜻ํ㜻ํ㜻ํ㜻ํ㜻ํ`
+Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp
 
 ### Requirement!
 Semua sudah ada di scriptnya `(otomatis)`
@@ -9,15 +9,19 @@ Semua sudah ada di scriptnya `(otomatis)`
 ```bash
 python3 Virtex.py
 ```
+jan lupa install python terbaru
+```bash
+pkg install python3
+```
 
 # Preview
-Menu Utama
+## Main
 ![prev1](.assets/prev1.png)
 
-About
+## About
 ![about](.assets/about.png)
 
-Pilihan Virtex
+## Pilihan Virtex
 ![pv](.assets/pv.png)
 
 ## 97 Virtex
